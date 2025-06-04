@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Caio, from São Paulo<br><br>- 🔭 I am currently a student intern in the administrative area at UNICAMP. <br>- 📚I’m currently studying Fullstack development using Node.js (with TypeScript) and Java." <br>- ⚡ I'm also interested in Python and Data Analysis.</p>
+<p align="left">I'm Caio, from São Paulo<br><br>- 🔭 I am currently a student intern in the administrative area at UNICAMP. <br>- 📚I’m currently studying Fullstack development using Node.js (with TypeScript) and Java. <br>- ⚡ I'm also interested in Python and Data Analysis.</p>
 
 ###
 
